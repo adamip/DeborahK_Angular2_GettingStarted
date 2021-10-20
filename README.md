@@ -13,4 +13,8 @@ If that does not resolve your issue, please post to the [discussion board for th
 
 NOTE: The installation was tested using node v6.5.0 and npm 3.10.6.
 
+
 Testing changes
+
+
+updated from master
